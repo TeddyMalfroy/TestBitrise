@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/7dbb71444959b5811c8423b4626f0cee/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/db36c2e43dabf706073fad5886d6aae2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d6c447022033b42a0149f752d35b182f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/fe6f063c308611ef5dc6e2243501782a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d684abbb3806e1ad177d8b35008886f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/4dc69b064a6beaf1bd982a62aa2a9e78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/79bfe0254aba7164fe3fccb50b1d260e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3d366bcd5cb263b8b13857f3b51128bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ce687b096fa9377b02fb8ffb45820358/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/44e856669e329c36c0e2ee71d6132374/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8109ccf52083f7d29e91ce51fb3d7917/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/cfa445768ec04716b9a286a1107a6b63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/46ca8eb98e4d9988a8eac67f44bc28f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/98be5e0a819824394ce94867cdbe47a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/753d3f9f55c3f307408e19faab67ee00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/879e4041f1a86650cdec479bb7c9ea48/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/72f9ca3dea54b67698eaa848f74f731b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/fc02e555547c821ca448eca7543176e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5db68e676ba8b4aff21afd0753a70d34/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6c639ba65f25350105383c1a51d14a2f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e70f232f987c9b1f674c74402216a755/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/1d2d09c62b2abd5dfde48f5de334c856/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/genesis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1c2c0a985a8a3d2998e4153b1a27745c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a399c7cffca80b00f5e1bdb2889931cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/9f98cff1c233a7855f41c1b090477bc2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0e4c9dc968469d061c0014c05088408a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/genesis/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c58ec88ec29d81361ab2a117ae025901/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f7b1071f3452a0260ba7ec9f398c16b5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/genesis/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d0791b9cf56547b3cf8c3721122051ce/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/genesis/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d39d6046b3b56493a0b217bd968a3faa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/genesis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a4ee72b1326052c15ffe18fdbf4f5270/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml
+		ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml
+		ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/7dbb71444959b5811c8423b4626f0cee/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/7dbb71444959b5811c8423b4626f0cee/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d6c447022033b42a0149f752d35b182f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d6c447022033b42a0149f752d35b182f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5db68e676ba8b4aff21afd0753a70d34/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5db68e676ba8b4aff21afd0753a70d34/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6c639ba65f25350105383c1a51d14a2f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6c639ba65f25350105383c1a51d14a2f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5db68e676ba8b4aff21afd0753a70d34/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.testbitrise.genesis.testbitrise.MainActivity
+ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml
+INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/7dbb71444959b5811c8423b4626f0cee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/7dbb71444959b5811c8423b4626f0cee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/db36c2e43dabf706073fad5886d6aae2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/db36c2e43dabf706073fad5886d6aae2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d6c447022033b42a0149f752d35b182f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d6c447022033b42a0149f752d35b182f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/fe6f063c308611ef5dc6e2243501782a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/fe6f063c308611ef5dc6e2243501782a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d684abbb3806e1ad177d8b35008886f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d684abbb3806e1ad177d8b35008886f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/4dc69b064a6beaf1bd982a62aa2a9e78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/4dc69b064a6beaf1bd982a62aa2a9e78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/79bfe0254aba7164fe3fccb50b1d260e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/79bfe0254aba7164fe3fccb50b1d260e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3d366bcd5cb263b8b13857f3b51128bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3d366bcd5cb263b8b13857f3b51128bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ce687b096fa9377b02fb8ffb45820358/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ce687b096fa9377b02fb8ffb45820358/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/44e856669e329c36c0e2ee71d6132374/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/44e856669e329c36c0e2ee71d6132374/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8109ccf52083f7d29e91ce51fb3d7917/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8109ccf52083f7d29e91ce51fb3d7917/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/cfa445768ec04716b9a286a1107a6b63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/cfa445768ec04716b9a286a1107a6b63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/46ca8eb98e4d9988a8eac67f44bc28f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/46ca8eb98e4d9988a8eac67f44bc28f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/98be5e0a819824394ce94867cdbe47a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/98be5e0a819824394ce94867cdbe47a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/753d3f9f55c3f307408e19faab67ee00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/753d3f9f55c3f307408e19faab67ee00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/879e4041f1a86650cdec479bb7c9ea48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/879e4041f1a86650cdec479bb7c9ea48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/72f9ca3dea54b67698eaa848f74f731b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/72f9ca3dea54b67698eaa848f74f731b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/fc02e555547c821ca448eca7543176e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/fc02e555547c821ca448eca7543176e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5db68e676ba8b4aff21afd0753a70d34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5db68e676ba8b4aff21afd0753a70d34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6c639ba65f25350105383c1a51d14a2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6c639ba65f25350105383c1a51d14a2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e70f232f987c9b1f674c74402216a755/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e70f232f987c9b1f674c74402216a755/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/1d2d09c62b2abd5dfde48f5de334c856/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/1d2d09c62b2abd5dfde48f5de334c856/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/genesis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1c2c0a985a8a3d2998e4153b1a27745c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/genesis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1c2c0a985a8a3d2998e4153b1a27745c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a399c7cffca80b00f5e1bdb2889931cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a399c7cffca80b00f5e1bdb2889931cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/9f98cff1c233a7855f41c1b090477bc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/9f98cff1c233a7855f41c1b090477bc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0e4c9dc968469d061c0014c05088408a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0e4c9dc968469d061c0014c05088408a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/genesis/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c58ec88ec29d81361ab2a117ae025901/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/genesis/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c58ec88ec29d81361ab2a117ae025901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f7b1071f3452a0260ba7ec9f398c16b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/genesis/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f7b1071f3452a0260ba7ec9f398c16b5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/genesis/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d0791b9cf56547b3cf8c3721122051ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/genesis/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d0791b9cf56547b3cf8c3721122051ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/genesis/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d39d6046b3b56493a0b217bd968a3faa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/genesis/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d39d6046b3b56493a0b217bd968a3faa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/genesis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a4ee72b1326052c15ffe18fdbf4f5270/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/genesis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a4ee72b1326052c15ffe18fdbf4f5270/AndroidManifest.xml:20:5-44
+INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml
+INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml
+		ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml
+		ADDED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/genesis/workspace-teddy/groupeseb/git_repositories/TestBitrise/app/src/main/AndroidManifest.xml
